@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "poc-nx-tests": "apps/poc-nx-tests",
+    "poc-nx-tests-e2e": "apps/poc-nx-tests-e2e"
+  }
+}
